@@ -18,7 +18,7 @@ Bandpass responsiveness tests effects of different orders on the filter shape.
 Quadrature work- Quadrature initial.py
 Sets up plotting the two detector arms against each other. A fitted ellipse and get closest point function could be added to make this viable for future Quadrature work on the setup.
 
-Peak stability analysis- Peak stability full weekend working (error bars),py
+Peak stability analysis- Stability full weekend working (error bars).py
 Two versions made depending on whether error bars are requested, individual plots can be made false to prevent showing. Takes data sets and arranges them in absolute time, they're then chunked into a specified length (currently 250 seconds) and PSDs produced. A Lorentzian fit then extracts PSD peak data (frequency and amplitude) used for the stability plot.
 
 Signal to noise ratio analysis- SNR analysis.py
