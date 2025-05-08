@@ -1,5 +1,5 @@
 # Gru
-This repository contains all code produced for the analysis of improvements made to the diamagnetic-levitator based gravimeter setup of the Ulbricht group within the University of Southampton. Mainly written by myself Michael Hawker for my BSc project, with major contributions from MPhys students Elizabeth Bondoc and Phoenix McArthur on the project. The camera based modal frequency identification code was produced by E. Bondoc MPhys. Ringdown analysis code was provided by PhD student Elliot Simcox of the Ulbricht group.
+This repository contains all code produced for the analysis of improvements made to the diamagnetic-levitator based gravimeter setup of the Ulbricht group within the University of Southampton. Mainly written by myself Michael Hawker for my BSc project, with major contributions from MPhys students Elizabeth Bondoc and Phoenix McArthur on the project. The camera based modal frequency identification code was produced by E. Bondoc, MPhys. student. Ringdown analysis code was provided by PhD student Elliot Simcox of the Ulbricht group.
 
 The trc file loading and base power spectral density production code has been taken from the Optoanalysis package created by Ashley Setter.
 
