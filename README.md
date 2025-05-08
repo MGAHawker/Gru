@@ -22,7 +22,7 @@ Peak stability analysis- Stability full weekend working (error bars).py
 Two versions made depending on whether error bars are requested, individual plots can be made false to prevent showing. Takes data sets and arranges them in absolute time, they're then chunked into a specified length (currently 250 seconds) and PSDs produced. A Lorentzian fit then extracts PSD peak data (frequency and amplitude) used for the stability plot.
 
 Signal to noise ratio analysis- SNR analysis.py
-Takes two files, such as from data sets before and after improvements to the gravimeter. The signal is specified as the power within a modal identification region manually entered. The noise is the average power of everything outside of this. An SNR is then calculated from the raw signal and noise powers and then converted into decibels. SNR improvments are then calculated by comparison between the two files SNRs in a dB and linear form. Noise reduction is calcualted by direct comparison of raw noise powers.
+Takes two files, such as from data sets before and after improvements to the gravimeter. The signal is specified as the power within a modal identification region manually entered. The noise is the average power of everything outside of this. An SNR is then calculated from the raw signal and noise powers and then converted into decibels. SNR improvments are then calculated by comparison between the two files' SNRs in a dB and linear form. Noise reduction is calculated by direct comparison of raw noise powers.
 
 DC offset averaging plot with lunar model fitting implemented- DC averaging plot moon signal fitted with datetime axes implemented Alternative error bars.py
 Not the most simple naming but I had a large amount of iterations producing this
